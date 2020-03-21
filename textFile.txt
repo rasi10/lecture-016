@@ -1,3 +1,0 @@
-This is my text file that will be used in my example with git.
-This line will be included in the second commit.
-This line will be included in the third commit.
