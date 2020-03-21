@@ -4,4 +4,6 @@ public class JavaCode{
 	mainMethod()
 	alskjda
 	asdölaks
+
+	new method()
 }
