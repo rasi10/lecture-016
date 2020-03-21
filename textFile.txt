@@ -1,4 +1,7 @@
-akldhalsk
-LAKDJHSAKJLDSA
-ASKJHDKAJLHDAS
-lkAJSHDLASKJDAS
+public class JavaCode{
+
+	myMethod()
+	mainMethod()
+	alskjda
+	asdölaks
+}
